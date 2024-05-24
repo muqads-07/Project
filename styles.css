@@ -1,0 +1,519 @@
+body {
+  font-family: "Mulish", sans-serif;
+}
+.btn{
+  border-radius: 25px;
+border-radius: 25px;
+padding: 10px 20px 10px 20px;
+}
+.marginn{
+  padding-top: 20px;
+}
+.bg{
+  background: linear-gradient(to right, #162a6b, #00172e);
+  height: 100vh;
+}
+.bgg{
+  background-image: url(images/mainImage.png);
+  height: 90vh;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: auto;
+  margin-right: 90px;
+}
+.navlinks{
+  margin-left: 70px;
+}
+.logo{
+  margin-left: 30px;
+}
+.getFreeQuote{
+  margin-right: 20px;
+  border: 2px solid white;
+  font-weight: 600;
+}
+.maintext{
+  padding-top: 15vh;
+  padding-left: 6rem;
+}
+.maintext h1{
+  font-size: 4rem;
+}
+.maintext p{
+  font-size: 1.2rem;
+}
+.OurServices{
+  background-image: linear-gradient(to bottom, #ff4495, #ff6d6d);
+  color: white;
+  font-weight: 600;
+  padding: 14px 30px;
+  font-size: medium;
+}
+.scdScreen{
+  margin-top: 200px;
+  text-align: center;
+  height: 100vh;
+}
+.scdScreen h6{
+  font-size: 1.1rem;
+  color: #FF4495;
+}
+.scdScreen h1{
+  font-size:3rem;
+  color: #232F55;
+}
+.one h4, .two h4, .three h4{
+  padding-top: 3.5rem;
+}
+.trdScreen{
+  background-color: rgb(241, 248, 250);
+ 
+}
+.bggg{
+  padding-top: 8rem;
+  height: 123vh;
+}
+.imgggg img{
+  padding-left: 3rem;
+}
+.absolute{
+  position: absolute;
+  /* left: 35%;
+  bottom: 30%;
+  width: 80%; */
+  left: 36%;
+  bottom: 32%;
+  width: 70%;
+  z-index: 2;
+}
+.absolute img{
+ border-radius: 10px;
+}
+.pinkIcon{
+  width: 30%;
+}
+
+.gybf h1{
+  font-size: 44px;
+  margin-top: 30px;
+  margin-left: 15px;
+  font-weight: 700!important;
+} 
+.relative{
+  position: relative;
+  top: 5rem;
+  left: 5rem;
+  right: 25%;
+}
+.relative img{
+  width: 65%;
+}
+.fourthScreen{
+  background: linear-gradient(to right,  #001020, #1c3279);
+  height: 120vh;
+}
+.fthPad{
+  padding-top: 6rem;
+}
+.bb p{
+  font-size: 17px;
+}
+.icon{
+  color: #FF4495; 
+font-size: 2.5rem;
+  /* width: 50%;
+  margin-left: auto;
+  margin-right: auto; */
+}
+.borderr{
+  border-style: solid;
+  border-color: grey;
+  border-width: 1px;
+  padding: 50px 25px 50px 25px;
+}
+.ttt{
+  padding-top: 15%;
+  font-size: 1.1rem;
+}
+
+.lRow{
+  margin-top: 5rem;
+  text-align: center;
+  
+}
+.lRow p{
+  color: white;
+  font-size: 17px;
+}
+.divv{
+  width: 100%;
+  margin-top: 10rem;
+  margin-left: 130px;
+  margin-right: 130px;
+}
+.divv h1{
+font-size: 3rem;
+font-weight: bold;
+}
+.divv p{
+font-size: 20px;
+margin-left: 120px;
+margin-right: 120px;
+}
+.RequestaQuote{
+  padding-left: 32px;
+  padding-right: 32px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: #FF4495;
+  border-color: #FF4495;
+}
+.RequestaQuote:hover{
+  color: white;
+  background-color: rgb(10, 33, 95) ;
+}
+.pp{
+  font-size: 1.2rem;
+}
+.pp h1{
+  font-size: 4rem;
+}
+.pp p{
+  padding-left: 70px;
+  padding-right: 70px;
+  /* width: 70%; */
+}
+.rr h1{
+  text-align: center;
+}
+.SOGS{
+  width: 100%;
+  margin-top: 7rem;
+}
+.SOGS h1{
+font-size: 3rem;
+font-weight: bold;
+}
+.frst{
+  background-image: url(images/first.png);
+  box-shadow: inset 0 0 0 1000px rgba(47, 32, 131, 0.425);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 45vh;
+  border-radius: 10px;
+}
+.frst h4, .snd h4, .trd h4{
+  
+  font-size: 1.7rem;
+  font-weight: bold;
+  letter-spacing:4px;
+  margin-bottom: 0px;
+}
+.frst p, .snd p, .trd p{
+  font-size: 8px;
+  letter-spacing: 3px;
+  margin-bottom: 3rem;
+}
+.frst i, .snd i, .trd i{
+  color: white;
+  font-size: 1.4rem;
+  padding-top: 7rem;
+  padding-bottom: 0.5rem;
+}
+.snd{
+  background-image: url(images/sec.png);
+  box-shadow: inset 0 0 0 1000px rgba(47, 32, 131, 0.425);
+  background-size: 100%;
+  border-radius: 10px;
+  height: 45vh;
+  background-repeat: no-repeat;
+}
+.trd{
+  background-image: url(images/third.png);
+  box-shadow: inset 0 0 0 1000px rgba(47, 32, 131, 0.425);
+  background-size: 100%;
+  height: 45vh;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+}
+.fff h4{
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+.fff{
+  margin-top: 30px;
+  max-width: 100%;
+  padding: 0px;
+  margin-bottom: 100px;
+}
+.bgL{
+  background-image: url(images/bgL.png);
+  box-shadow: inset 0 0 0 1000px rgba(47, 32, 131, 0.425);
+  background-repeat: no-repeat;
+  height: 90vh;
+  width: 100%;
+  background-size: cover;
+}
+.GetStartedNow{
+  color:#FF4495;
+  border-radius: 30px;
+  font-size: 17px;
+  font-weight: 500;
+}
+.GetStartedNow:hover{
+  color: white;
+  background-color: rgb(10, 33, 95) ;
+}
+.playbutton{
+  color:#FF4495;
+  font-size: 80px;
+   margin-bottom: 40px;
+    border: 1px solid white;
+    border-radius: 40px;
+    background-color: white;
+}
+
+.paddd{
+  margin-top: 150px;
+}
+.EmailAddress{
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  padding: 10px;
+  border-radius: 30px;
+
+}
+.iconfour{
+  font-size: 25px;
+}
+.pinkk{
+  color:rgb(248, 73, 73);
+}
+.txtsma p{
+  font-size: 15px;
+}
+
+@media screen and (max-width: 991px) and (min-width:300px) {
+
+  .bgg{
+    background-image: none;
+    height: 0vh;
+    background-size: auto; 
+    margin-right: 0px;
+  }
+
+  .maintext {
+    padding-top: 7vh;
+    padding-left: 1.5rem;
+    width: 100%;
+    padding-right: 0px;
+    margin-right: 0px;
+}
+.maintext h1{
+  font-size: 28px;
+}
+.maintext p{
+  font-size: 1rem;
+  padding-top: 20px;
+}
+.bg {
+  background: linear-gradient(to right, #162a6b, #00172e);
+  height: 50vh;
+  /* width: max-content; */
+}
+.OurServices{
+  margin-top: 22px;
+}
+.logo {
+    margin-left: 00px;
+}
+.scdScreen {
+  margin-top: 62px;
+  text-align: center;
+  height: 162vh;
+  /* margin-left: 12px; */
+}
+.scdScreen h6{
+  width: 100%;
+}
+
+.scdScreen h1 {
+  font-size: 1.5rem;
+   margin-bottom: 60px; 
+  font-weight: bold;
+  width: 100%;
+}
+
+.scdScreen h4{
+  font-size: 1.2rem;
+  width: 100%
+}
+.scdScreen p{
+  font-size: 0.9rem;
+  margin-top: 2.2rem;
+  width: 75%;
+  margin-left: 38px;
+  margin-right: 50px;
+  text-align: center;
+}
+.one img, .two img, .three img{
+  /* margin-right: 100%;
+  margin-left: 20%; */
+  margin-bottom: 3rem;
+
+}
+.one, .two, .three{
+  margin-top: 2.5rem;
+  /* width: 70%; */
+  margin-bottom: 3rem;
+}
+.three{
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.relative img {
+  width: 100%;
+}
+.imgggg img {
+  padding-left: 0rem;
+}
+.bggg {
+  padding-top: 1rem;
+  height: 133vh;
+  width: 100%;
+}
+.relative{
+  position: relative;
+  left: 0%;
+  right: 10%;
+}
+.absolute {
+  position: absolute;
+  left: 11%;
+  bottom: 1%;
+  width: 80%;
+}
+.gybf h1{
+  font-size: 23px;
+  margin-top: 150px;
+  margin-left: 15px;
+}
+.fgh{
+  margin-top: 20px;
+  width: 100%;
+  padding-right: 20px;
+}
+.fgv{
+  margin-top: 50px;
+}
+.fgvtwo{
+  margin-top: 20px;
+}
+.fthPad {
+  padding-top: 3rem;
+}
+.text-light {
+  color: #f8f9fa!important;
+  width: 60%;
+  text-align: left;
+}
+.pt-5, .py-5 {
+  padding-top: 6rem!important;
+}
+.ItSer{
+  font-size: 25px;
+  width: 90vw;
+}
+.nnn{
+  padding-top: 32px;
+}
+.bb p{
+  font-size: 15px;
+  width: 80vw;
+}
+.borderr {
+  border-width: 1px;
+  padding: 35px 25px 30px 35px;
+  width: 100%;
+}
+.ttt {
+  padding-top: 10%;
+}
+
+.fourthScreen {
+  background: linear-gradient(to right, #001020, #1c3279);
+  height: 138vh;
+}
+.lRow p {
+  font-size: 12px;
+  width: 100%;
+}
+.divv h1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.divv {
+  width: 100%;
+  margin-top: 4rem;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.divv p {
+  font-size: 16px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.pp {
+  font-size: 1rem;
+}
+.RequestaQuote {
+  margin-top: 30px;
+}
+.pp h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.SOGS {
+  margin-top: 3rem;
+}
+.SOGS h1 {
+  font-size: 1.5rem;
+}
+.frst, .snd, .trd{
+  height: 34vh;
+}
+.fff h4{
+  font-weight: bold;
+  font-size: 1rem;
+}
+.fff{
+  margin-top: 30px;
+  max-width: 100%;
+  padding: 0px;
+  margin-bottom: 30px;
+}
+.pp p {
+  padding-top: 10px;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 100%;
+}
+.bgL {
+  height: 57vh;
+  background-size: auto;
+}
+.hj h1{
+  font-size: 1.5rem;
+}
+.GetStartedNow{
+  margin-top: 30px;
+}
+.paddd{
+  margin-top: 50px;
+}
+.txtsma p {
+  font-size: 11px;
+  width: 60%;
+}
+}
