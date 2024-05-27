@@ -319,7 +319,7 @@ font-weight: bold;
 }
 .bg {
   background: linear-gradient(to right, #162a6b, #00172e);
-  height: 50vh;
+  height: 100vh;
   /* width: max-content; */
 }
 .OurServices{
